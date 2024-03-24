@@ -28,9 +28,6 @@ body {
     float: right;
     vertical-align: top;
 }
-
-
-
 .search-box {
     display: flex;
     align-items: center;
